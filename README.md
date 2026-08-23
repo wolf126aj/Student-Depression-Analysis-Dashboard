@@ -2,15 +2,14 @@
 
 A Tableau Public dashboard that explores lifestyle and academic factors — sleep, study habits, satisfaction, and stress — across a student population, built to surface patterns that may relate to student mental health and wellbeing.
 
-![Dashboard Screenshot](dashboard.png)
 
-🔗 **Live Dashboard:** [Add your Tableau Public link here]
+ **Live Dashboard:** https://public.tableau.com/views/StudentDepressionAnalysisDashboard_17873391813140/StudentdepressionanalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
-## 📊 About the Dashboard
+## About the Dashboard
 
-This project visualizes survey/dataset responses from students, breaking the data down into five key views. Each panel is built to be read independently, so a viewer can quickly scan across sleep, study, satisfaction, and stress indicators without needing to cross-reference other charts.
+This project visualizes dataset from students, breaking the data down into five key views. Each panel is built to be read independently, so a viewer can quickly scan across sleep, study, satisfaction, and stress indicators without needing to cross-reference other charts.
 
 ### 1. Sleep Duration and Student Count
 A four-category breakdown of how many students fall into each sleep duration bucket:
@@ -35,44 +34,39 @@ A bubble-style chart similar in format to the Academic Pressure view, plotting s
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Tableau Public** — dashboard design, data visualization, and publishing
 - **Data source:** Student survey/dataset covering sleep, study habits, satisfaction, and stress indicators *(add your dataset name/source here)*
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 ```
 student-depression-analyzer/
-├── README.md              # Project overview (this file)
-├── dashboard.png           # Dashboard screenshot
-└── [Tableau workbook / data files, if included]
+├── README.md                              # Project overview (this file)
+├── dashboard.png                          # Dashboard screenshot
+├── Student Depression Analysis Dashboard.twbx   # Tableau workbook
+└── Depression Student Dataset.csv         # Dataset used for the analysis
 ```
-
-> Note: If you're not including the raw `.twbx` file or dataset in this repo, consider adding a short note here on how to access them (e.g., link to the dataset source or a data privacy note).
-
 ---
 
-## 🚀 How to View
+##  How to View
 
-1. Visit the [live Tableau Public dashboard](#) *(replace with your link)*.
+1. Visit the https://public.tableau.com/views/StudentDepressionAnalysisDashboard_17873391813140/StudentdepressionanalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 2. Or clone this repository to view the screenshot and project documentation:
    ```bash
-   git clone https://github.com/<your-username>/student-depression-analyzer.git
+   git clone https://github.com/<wolf126>/student-depression-analyzer.git
    ```
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This dashboard is intended as an exploratory data visualization project and does not provide clinical or diagnostic conclusions about student mental health.
 - All visualizations reflect counts and distributions present in the underlying dataset only.
 
 ---
 
-## 📬 Contact
 
-**[Your Name]**
-[Your Email] · [LinkedIn] · [Portfolio Website]
