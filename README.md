@@ -1,4 +1,4 @@
-# Student Depression Analyzer
+# Student Depression Analsis Dashboard
 
 A Tableau Public dashboard that explores lifestyle and academic factors — sleep, study habits, satisfaction, and stress — across a student population, built to surface patterns that may relate to student mental health and wellbeing.
 
